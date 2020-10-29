@@ -1,0 +1,15 @@
+import os
+
+with open('source-ip') as file:
+	source = file.read()
+	source = source.splitlines()
+	print (source)
+
+with open('destination-ip') as file:
+       des = file.read()
+       des = des.splitlines()
+       print (des)
+
+for ip in source :
+	for ipa in des:
+	os.system('ping ' + ip)
