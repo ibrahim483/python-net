@@ -34,8 +34,8 @@ UP  Ping from 192.168.174.138 to 192.167.1.30 Successful
 UP  Ping from 192.168.174.138 to 10.10.10.1 Successful
 UP  Ping from 192.168.174.138 to 10.10.10.11 Successful
 UP  Ping from 192.168.174.138 to 10.10.10.12 Successful
-UP  Ping from 192.168.174.138 to 10.10.10.16 Successful
-UP  Ping from 192.168.174.138 to 10.10.10.17 Successful
+UP  Ping from 192.168.174.138 to 10.10.10.13 Successful
+UP  Ping from 192.168.174.138 to 10.10.10.14 Successful
 ********************************* *********************************** 
             source from  192.168.174.139                         
 ********************************* *********************************** 
@@ -72,8 +72,8 @@ UP  Ping from 192.168.174.139 to 192.167.1.30 Successful
 UP  Ping from 192.168.174.139 to 10.10.10.1 Successful
 UP  Ping from 192.168.174.139 to 10.10.10.11 Successful
 UP  Ping from 192.168.174.139 to 10.10.10.12 Successful
-UP  Ping from 192.168.174.139 to 10.10.10.16 Successful
-UP  Ping from 192.168.174.139 to 10.10.10.17 Successful
+UP  Ping from 192.168.174.139 to 10.10.10.13 Successful
+UP  Ping from 192.168.174.139 to 10.10.10.14 Successful
 ********************************* *********************************** 
             source from  192.168.174.140                         
 ********************************* *********************************** 
@@ -110,8 +110,8 @@ UP  Ping from 192.168.174.140 to 192.167.1.30 Successful
 UP  Ping from 192.168.174.140 to 10.10.10.1 Successful
 UP  Ping from 192.168.174.140 to 10.10.10.11 Successful
 UP  Ping from 192.168.174.140 to 10.10.10.12 Successful
-UP  Ping from 192.168.174.140 to 10.10.10.16 Successful
-UP  Ping from 192.168.174.140 to 10.10.10.17 Successful
+UP  Ping from 192.168.174.140 to 10.10.10.13 Successful
+UP  Ping from 192.168.174.140 to 10.10.10.14 Successful
 ********************************* *********************************** 
             source from  192.168.174.141                         
 ********************************* *********************************** 
@@ -148,8 +148,8 @@ UP  Ping from 192.168.174.141 to 192.167.1.30 Successful
 UP  Ping from 192.168.174.141 to 10.10.10.1 Successful
 UP  Ping from 192.168.174.141 to 10.10.10.11 Successful
 UP  Ping from 192.168.174.141 to 10.10.10.12 Successful
-UP  Ping from 192.168.174.141 to 10.10.10.16 Successful
-UP  Ping from 192.168.174.141 to 10.10.10.17 Successful
+UP  Ping from 192.168.174.141 to 10.10.10.13 Successful
+UP  Ping from 192.168.174.141 to 10.10.10.14 Successful
 ********************************* *********************************** 
             source from  192.168.174.142                         
 ********************************* *********************************** 
@@ -186,8 +186,8 @@ UP  Ping from 192.168.174.142 to 192.167.1.30 Successful
 UP  Ping from 192.168.174.142 to 10.10.10.1 Successful
 UP  Ping from 192.168.174.142 to 10.10.10.11 Successful
 UP  Ping from 192.168.174.142 to 10.10.10.12 Successful
-UP  Ping from 192.168.174.142 to 10.10.10.16 Successful
-UP  Ping from 192.168.174.142 to 10.10.10.17 Successful
+UP  Ping from 192.168.174.142 to 10.10.10.13 Successful
+UP  Ping from 192.168.174.142 to 10.10.10.14 Successful
 ********************************* *********************************** 
             source from  192.168.174.143                         
 ********************************* *********************************** 
@@ -224,5 +224,5 @@ UP  Ping from 192.168.174.143 to 192.167.1.30 Successful
 UP  Ping from 192.168.174.143 to 10.10.10.1 Successful
 UP  Ping from 192.168.174.143 to 10.10.10.11 Successful
 UP  Ping from 192.168.174.143 to 10.10.10.12 Successful
-UP  Ping from 192.168.174.143 to 10.10.10.16 Successful
-UP  Ping from 192.168.174.143 to 10.10.10.17 Successful
+UP  Ping from 192.168.174.143 to 10.10.10.13 Successful
+UP  Ping from 192.168.174.143 to 10.10.10.14 Successful
